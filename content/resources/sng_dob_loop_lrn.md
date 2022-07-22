@@ -5,6 +5,7 @@ file: /courses/15-316-building-and-leading-effective-teams-summer-2005/413d5a03f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Single vs. Double Loop Learning
 uid: 413d5a03-f112-d8e0-0c05-5eb0f064fdfb
 ---
 Lecture presentation on team performance and leadership models.
-
