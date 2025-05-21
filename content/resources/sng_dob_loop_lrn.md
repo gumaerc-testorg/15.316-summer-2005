@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture presentation on team performance and leadership models.
-file: /ol-ocw-studio-app/courses/15-316-building-and-leading-effective-teams-summer-2005/413d5a03f112d8e00c055eb0f064fdfb_sng_dob_loop_lrn.pdf
+file: /courses/15-316-building-and-leading-effective-teams-summer-2005/413d5a03f112d8e00c055eb0f064fdfb_sng_dob_loop_lrn.pdf
 file_size: 1067235
 file_type: application/pdf
 learning_resource_types:
