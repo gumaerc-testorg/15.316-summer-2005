@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture presentation on leadership development.
-file: /courses/15-316-building-and-leading-effective-teams-summer-2005/c5a0d8dea9e3b0e77777f4358691f907_leader_dev.pdf
+file: /ol-ocw-studio-app/courses/15-316-building-and-leading-effective-teams-summer-2005/c5a0d8dea9e3b0e77777f4358691f907_leader_dev.pdf
 file_size: 505737
 file_type: application/pdf
 learning_resource_types:
